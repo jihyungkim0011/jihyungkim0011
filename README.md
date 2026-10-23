@@ -31,7 +31,7 @@ Java · Spring Boot · MySQL · JPA/JDBC · Redis Pub/Sub · WebSocket/STOMP · 
 
 ![GitHub 공개 활동 통계 — 첫 실행 전에는 생성 대기 안내가 표시됩니다.](./profile/stats.svg)
 
-<sub>Total Commits는 올해 기준입니다. 기여 수는 커밋 수와 다릅니다.</sub>
+<sub>Total Commits의 집계 기간은 카드의 표기를 따릅니다. 기여 수는 커밋 수와 다릅니다.</sub>
 
 ![최근 약 1년의 GitHub 기여 달력 3D — 첫 실행 전에는 생성 대기 안내가 표시됩니다.](./profile-3d-contrib/profile-night-rainbow.svg)
 
