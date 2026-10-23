@@ -23,7 +23,7 @@ Java · Spring Boot · MySQL · JPA/JDBC · Redis Pub/Sub · WebSocket/STOMP · 
 
 ### 관심사
 
-- 멀티 인스턴스 환경에서의 안정적인 백엔드와 메시지 전달
+- 멀티 인스턴스 환경에서의 안정적인 메시지 전달
 - 측정 결과에 기반한 비동기 처리·데이터베이스 최적화
 - 테스트와 CI를 통한 팀 개발 생산성 향상
 
