@@ -24,15 +24,11 @@ Java · Spring Boot · MySQL · JPA/JDBC · Redis Pub/Sub · WebSocket/STOMP · 
 ### 관심사
 
 - 멀티 인스턴스 환경에서의 안정적인 메시지 전달
-- 측정 결과에 기반한 비동기 처리·데이터베이스 최적화
-- 테스트와 CI를 통한 팀 개발 생산성 향상
+- 비동기 처리·데이터베이스 최적화
+- 팀 개발 생산성 향상
 
 ### GitHub 활동
 
 ![GitHub 공개 활동 통계 — 첫 실행 전에는 생성 대기 안내가 표시됩니다.](./profile/stats.svg)
 
-<sub>Total Commits의 집계 기간은 카드의 표기를 따릅니다. 기여 수는 커밋 수와 다릅니다.</sub>
-
 ![최근 약 1년의 GitHub 기여 달력 3D — 첫 실행 전에는 생성 대기 안내가 표시됩니다.](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<sub>공개 활동 기반이며 매일 갱신됩니다. 첫 워크플로 실행 후 실제 통계와 3D 달력이 표시됩니다.</sub>
