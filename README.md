@@ -1,6 +1,6 @@
 # 김지형 · Backend Developer
 
-안정적인 메시지 전달과 측정에 기반한 성능 개선에 관심이 있는 백엔드 개발자입니다.
+Architecture에서 System Architecture로 도전하며 설계하는 개발자
 
 ### 기술
 
@@ -23,8 +23,9 @@ Java · Spring Boot · MySQL · JPA/JDBC · Redis Pub/Sub · WebSocket/STOMP · 
 
 ### 관심사
 
-- 멀티 인스턴스 환경에서의 안정적인 메시지 전달
+- 안정적인 메시지 전달
 - 비동기 처리·데이터베이스 최적화
+- 측정 기반 성능 개선
 - 팀 개발 생산성 향상
 
 ### GitHub 활동
